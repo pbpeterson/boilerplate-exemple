@@ -11,7 +11,7 @@ export default {
   },
 } as Meta;
 
-export const GuidanceLogo = () => (
+export const Default = () => (
   <div
     style={{
       display: 'flex',
